@@ -23,7 +23,7 @@ def get_filters():
            break
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
-        month_input = input("What month would you like to look at? For all months type 'all'\n")
+        month_input = input("What month would you like to look at?\n")
         if month_input not in CITY_DATA:
             print("Specifically type months between January and June")
             continue
