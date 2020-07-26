@@ -10,4 +10,5 @@ chicago.csv
 new_york.csv
 washington.csv
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Data provided by https://www.motivateco.com/
+Project developed by https://www.udacity.com/
